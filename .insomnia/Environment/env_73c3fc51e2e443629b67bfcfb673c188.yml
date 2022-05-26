@@ -1,0 +1,20 @@
+_id: env_73c3fc51e2e443629b67bfcfb673c188
+type: Environment
+parentId: env_4badae8137e62d3f306678b22581f822ff540663
+modified: 1653538805258
+created: 1653538670949
+name: devTest
+data:
+  scheme: https
+  base_path: ""
+  host: httpbin.org
+  delay: 2
+dataPropertyOrder:
+  "&":
+    - scheme
+    - base_path
+    - host
+    - delay
+color: null
+isPrivate: false
+metaSortKey: 1653538500280

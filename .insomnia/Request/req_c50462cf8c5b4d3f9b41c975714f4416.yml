@@ -1,0 +1,21 @@
+_id: req_c50462cf8c5b4d3f9b41c975714f4416
+type: Request
+parentId: wrk_cabf68b8971747c2a2ce461f148c1b4d
+modified: 1653544670896
+created: 1653544668694
+url: "{{ base_url }}/uuid"
+name: Hien-Custom_Test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653544668694
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

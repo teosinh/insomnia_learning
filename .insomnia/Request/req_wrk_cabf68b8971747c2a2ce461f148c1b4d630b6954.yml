@@ -1,0 +1,21 @@
+_id: req_wrk_cabf68b8971747c2a2ce461f148c1b4d630b6954
+type: Request
+parentId: wrk_cabf68b8971747c2a2ce461f148c1b4d
+modified: 1653538500182
+created: 1653538500182
+url: "{{ base_url }}/delay/{{ delay }}"
+name: Returns a delayed response (max of 10 seconds).
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653538500182
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
